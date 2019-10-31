@@ -1,0 +1,9 @@
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\bin\Debug\alsi-deep-learning.exe.config
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\bin\Debug\alsi-deep-learning.exe
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\bin\Debug\alsi-deep-learning.pdb
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\obj\Debug\alsi-deep-learning.csprojAssemblyReference.cache
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\obj\Debug\alsi_deep_learning.Form1.resources
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\obj\Debug\alsi_deep_learning.Properties.Resources.resources
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\obj\Debug\alsi-deep-learning.csproj.GenerateResource.cache
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\obj\Debug\alsi-deep-learning.exe
+C:\Users\NITIC-AKITAlab\Desktop\alsi-deep-learning\alsi-deep-learning\obj\Debug\alsi-deep-learning.pdb
